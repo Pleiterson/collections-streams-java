@@ -15,7 +15,8 @@
 
 Aprenda a trabalhar com collections e streams, usadas para implementar estrutura de dados da linguagem Java.
 
-- Explicação dos conceitos de [java.util.List](https://github.com/Pleiterson/collections-streams-java/tree/master/hello-java), [java.util.ArrayList]() e [java.util.Vector]();
+- Explicação dos conceitos de List: [java.util.List](https://github.com/Pleiterson/collections-streams-java/blob/master/src/list/ExemploList.java), [java.util.ArrayList](https://github.com/Pleiterson/collections-streams-java/blob/master/src/list/ExemploArrayList.java) e [java.util.Vector](https://github.com/Pleiterson/collections-streams-java/blob/master/src/list/ExemploVector.java);
+- Explicação e conceitos de Queue: [java.util.LinkedList](https://github.com/Pleiterson/collections-streams-java/tree/master/src/queue);
 - <br>
 
 <!--License session-->
