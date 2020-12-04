@@ -17,6 +17,7 @@ Aprenda a trabalhar com collections e streams, usadas para implementar estrutura
 
 - Explicação dos conceitos de List: [java.util.List](https://github.com/Pleiterson/collections-streams-java/blob/master/src/list/ExemploList.java), [java.util.ArrayList](https://github.com/Pleiterson/collections-streams-java/blob/master/src/list/ExemploArrayList.java) e [java.util.Vector](https://github.com/Pleiterson/collections-streams-java/blob/master/src/list/ExemploVector.java);
 - Explicação e conceitos de Queue: [java.util.LinkedList](https://github.com/Pleiterson/collections-streams-java/tree/master/src/queue);
+- Explicação e conceitos de Set: [java.util.HashSet](https://github.com/Pleiterson/collections-streams-java/blob/master/src/set/ExemploHashSet.java), [java.util.TreeSet](https://github.com/Pleiterson/collections-streams-java/blob/master/src/set/ExemploTreeSet.java) e [java.util.LinkedHashSet](https://github.com/Pleiterson/collections-streams-java/blob/master/src/set/ExemploLinkedHashSet.java);
 - <br>
 
 <!--License session-->
