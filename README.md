@@ -21,7 +21,7 @@ Aprenda a trabalhar com collections e streams, usadas para implementar estrutura
 - Explicação e conceitos de Map: [java.util.HashMap](https://github.com/Pleiterson/collections-streams-java/blob/master/src/map/ExemploHashMap.java), [java.util.TreeMap](https://github.com/Pleiterson/collections-streams-java/blob/master/src/map/ExemploTreeMap.java) e [java.util.HashTable](https://github.com/Pleiterson/collections-streams-java/blob/master/src/map/ExemploHashTable.java);
 - Explicação e conceitos de Comparators: [java.util.Comparator](https://github.com/Pleiterson/collections-streams-java/blob/master/src/comparators/ComparatorsExampleList.java.java) e [java.util.Comparable](https://github.com/Pleiterson/collections-streams-java/blob/master/src/comparators/Estudante.java);
 - Explicação e conceitos de [Optionals](https://github.com/Pleiterson/collections-streams-java/blob/master/src/optionals);
-- Explicação e conceitos de Streams: <br>
+- Explicação e conceitos de [Stream](https://github.com/Pleiterson/collections-streams-java/blob/master/src/stream).<br>
 
 <!--License session-->
 <h3>📝 Licença</h3>
