@@ -19,6 +19,7 @@ Aprenda a trabalhar com collections e streams, usadas para implementar estrutura
 - Explicação e conceitos de Queue: [java.util.LinkedList](https://github.com/Pleiterson/collections-streams-java/tree/master/src/queue);
 - Explicação e conceitos de Set: [java.util.HashSet](https://github.com/Pleiterson/collections-streams-java/blob/master/src/set/ExemploHashSet.java), [java.util.TreeSet](https://github.com/Pleiterson/collections-streams-java/blob/master/src/set/ExemploTreeSet.java) e [java.util.LinkedHashSet](https://github.com/Pleiterson/collections-streams-java/blob/master/src/set/ExemploLinkedHashSet.java);
 - Explicação e conceitos de Map: [java.util.HashMap](https://github.com/Pleiterson/collections-streams-java/blob/master/src/map/ExemploHashMap.java), [java.util.TreeMap](https://github.com/Pleiterson/collections-streams-java/blob/master/src/map/ExemploTreeMap.java) e [java.util.HashTable](https://github.com/Pleiterson/collections-streams-java/blob/master/src/map/ExemploHashTable.java);
+- Explicação e conceitos de Comparators: [java.util.Comparator](https://github.com/Pleiterson/collections-streams-java/blob/master/src/comparators/ComparatorsExampleList.java.java) e [java.util.Comparable](https://github.com/Pleiterson/collections-streams-java/blob/master/src/comparators/Estudante.java);
 - Explicação e conceitos de<br>
 
 <!--License session-->
